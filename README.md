@@ -35,4 +35,5 @@
 
 ***Integrate the Sharingan Dark Mode Toggle Button into your site and become the ultimate web ninja! 💫 Whether you're a Naruto, Itachi, Kakashi or Uchiha Sasuke fan, this button will make your website feel like it's powered by the Sharingan!***
 
-*👉 Join the Hidden Leaf village in style— download the code and activate your Sharingan today! 🔥*
+
+*👉 <ins>Join the Hidden Leaf village in style—</ins> download the code and activate your Sharingan today! 🔥*

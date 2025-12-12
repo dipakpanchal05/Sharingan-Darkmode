@@ -31,6 +31,10 @@
 
 - Ninja Aesthetics: From the smooth animations to the glowing eye in the dark, it's like your site is alive with chakra!
 
+## Preview:
+
+https://github.com/user-attachments/assets/ac77c279-3e8d-405e-96f5-e2515ddc966f
+
 ## Get Started Today 🚀 :
 
 ***Integrate the Sharingan Dark Mode Toggle Button into your site and become the ultimate web ninja! 💫 Whether you're a Naruto, Itachi, Kakashi or Uchiha Sasuke fan, this button will make your website feel like it's powered by the Sharingan!***
